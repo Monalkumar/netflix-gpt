@@ -1,6 +1,8 @@
 const Browse = () =>{
     return (
-        <div>Browse</div>
+        <div>
+        <h1>Hello</h1>
+        </div>
     )
 }
 
